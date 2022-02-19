@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Ogi Moore, a Software Developer with a Mechanical Engineering and Computer Science background. I currently maintain [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph), and have broader interests in the PyData ecosystem; and cheer from the sidelines development of tools like [moonlight](https://github.com/moonlight-stream), [ffmpeg](https://github.com/FFmpeg/FFmpeg), [VisPy](https://github.com/vispy/vispy), [pandoc](https://github.com/jgm/pandoc) and [mpv](https://github.com/mpv-player/mpv) to name a few.  My academic interests are in control theory, optimization, and ~~statistics~~ data science.
+
+I primarily write software in Python, but have dabbled in Swift, Haskell, C, Tcl, and even Prolog.
+
+⚡ Fun fact: The name of the whale in the Docker logo is Molly.
+
 <!--
 **j9ac9k/j9ac9k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
